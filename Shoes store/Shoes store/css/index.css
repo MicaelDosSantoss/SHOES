@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap');
+
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+body {
+    margin: 0px;
+}
+
+
+
+nav {
+    background: #FFFFFF;
+    box-shadow: 0px 1px 20px rgba(159, 159, 159, 0.65);
+    display: flex;
+    justify-content: space-between;
+    padding: 9px 19px; 
+    align-items: center;
+}
+
+.logo {
+    width: 209px;
+    height: 104px;
+}
+
+.menu {
+    display: flex;
+    list-style: none;
+}
+
+.menu > li {
+    margin-right: 24px;
+    color: #777777;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 33px;
+}
+
+div {
+    margin: 10px;
+}
+
+
+#nome{
+    box-sizing: border-box;
+    background: #FFFFFF;
+    border: 1px solid #9B9B9B; 
+    width: 568px;
+}
+
+#email {
+    box-sizing: border-box;
+    background: #FFFFFF;
+    border: 1px solid #9B9B9B; 
+    width: 568px; 
+}
+
+#telefone {
+    box-sizing: border-box;
+    background: #FFFFFF;
+    border: 1px solid #9B9B9B; 
+    width: 568px;
+}
+
+#Derpatamento {
+    box-sizing: border-box;
+    background: #FFFFFF;
+    border: 1px solid #9B9B9B; 
+    width: 568px;
+}
+
+#mensagem{
+    background: #FFFFFF;
+border: 1px solid #9B9B9B;
+box-sizing: border-box;
+width:536,64px;
+}
+
+#Enviar {
+    background: #C2185B;
+    color: #FFFFFF;
+    border: none;
+    width: 560px;
+    height: 33px;
+    margin-left: 20px;
+
+}
+
+#resumo {
+    display: flex;
+}
+
+footer {
+    background: #C2185B;
+    color: white;
+    display:flex ;
+    justify-content: space-between;
+}
+
+#espaco{
+  width: 180px;
+  margin-left: 30px;
+}
+.espaco {
+    margin-top: 60px;
+    margin-right: 60px;
+    
+}
+
+ul > li {
+    list-style: none;
+    margin: 12px;
+}
+
+span {
+    font-size: 30px;
+}
+
+.Curriculo > button {
+    background: #C4C4C4;
+    border-radius: 0%;
+    border: none;
+    margin-left: 5px;
+}
+
+.Disponibilidade {
+    margin: 10px;
+}
+
+.contato {
+    margin: 10px; 
+}
