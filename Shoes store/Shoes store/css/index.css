@@ -84,11 +84,12 @@ width:536,64px;
     width: 560px;
     height: 33px;
     margin-left: 20px;
-
+    margin-bottom: 10px;
 }
 
 #resumo {
     display: flex;
+    margin-top: 40px;
 }
 
 footer {
@@ -130,4 +131,8 @@ span {
 
 .contato {
     margin: 10px; 
+}
+
+main {
+    display: flex;
 }
